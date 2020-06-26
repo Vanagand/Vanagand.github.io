@@ -1,4 +1,5 @@
 ---
+ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"
 layout: post
 title: The Layman’s Gaussian Naïve Bayes Classifier
 subtitle: What are the odds?
@@ -38,9 +39,7 @@ $\frac{1}{\sigma\sqrt{2\pi}}e^{\frac{1}{2}\left(\frac{\chi-\mu}{\sigma}\right)^{
 
 ## Manual implementation
 
-    class NaiveBayesClassifier():
-    """docstring"""
-        def __init__(self):
+
 
 ```bash
 class NaiveBayesClassifier():
