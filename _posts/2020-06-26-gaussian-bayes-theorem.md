@@ -9,7 +9,9 @@ tags: [machine, learning, artificial, network, model, bayes, thorem, gauss]
 # bigimg: /img/cdn_bigimg_banner.jpg
 comments: true
 ---
-<img id="gaussian_header" src="/img/gaussian_header.png" alt="graph">{:height="200%" width="200%"}
+<img id="gaussian_header" src="assets/img/gaussian_header.png" alt="graph">{:height="200%" width="200%"}
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 ## Introduction
 
