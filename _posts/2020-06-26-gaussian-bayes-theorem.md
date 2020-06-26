@@ -196,6 +196,7 @@ def _predict(self, summary, vector):
     return best_label
 ```
 
+In the scenario that we want to implement more algorithms, we can create child classes that retains the information and equation of their respective algorithms. This way we can create an object whose purpose is to provide predictions based on a single algorithm. The equation below is known as the **Gaussian distribution function**.
 
 ```bash
 class GaussianNBmodel(NaiveBayesClassifier):
@@ -207,11 +208,8 @@ def __init__(self, data):
 @property
 def about(self):
     return self._model_info
-```
 
-In the scenario that we want to implement more algorithms, we can create child classes that retains the information and equation of their respective algorithms. This way we can create an object whose purpose is to provide predictions based on a single algorithm. The equation below is known as the **Gaussian distribution function**.
 
-```bash
 def GaussianProbability(self, data, mean, stdev):
     """Creates a gaussian probability distribution float.
     
