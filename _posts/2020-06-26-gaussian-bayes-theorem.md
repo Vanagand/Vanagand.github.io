@@ -9,8 +9,11 @@ tags: [machine, learning, artificial, network, model, bayes, thorem, gauss]
 # bigimg: /img/cdn_bigimg_banner.jpg
 comments: true
 ---
-![Header](https://github.com/Vanagand/Vanagand.github.io/blob/master/assets/img/gaussian_header.png){: .mx-auto.d-block :}
-
+![header](https://raw.githubusercontent.com/Vanagand/Vanagand.github.io/master/assets/img/gaussian_header.png){: .mx-auto.d-block :}
+1
+![header](assets/img/gaussian_header.png)
+2
+![header](/assets/img/gaussian_header.png)
 ## Introduction
 
 The naïve Bayes’ classifiers are a network of simple yet powerful supervised learning algorithms that allows for the discrimination of objects based on features. It is founded on two core principles.
