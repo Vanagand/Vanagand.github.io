@@ -9,7 +9,7 @@ tags: [machine, learning, artificial, network, model, bayes, thorem, gauss]
 # bigimg: /img/cdn_bigimg_banner.jpg
 comments: true
 ---
-<img id="gaussian_header" src="https://github.com/Vanagand/Vanagand.github.io/blob/master/assets/img/gaussian_header.png" alt="graph">
+![Header](https://github.com/Vanagand/Vanagand.github.io/blob/master/assets/img/gaussian_header.png){: .mx-auto.d-block :}
 
 ## Introduction
 
