@@ -9,10 +9,7 @@ tags: [machine, learning, artificial, network, model, bayes, thorem, gauss]
 # bigimg: /img/cdn_bigimg_banner.jpg
 comments: true
 ---
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-<img id="cdn_census_area" src="/img/gaussian_header.png" alt="graph">{:height="200%" width="200%"}
+<img id="gaussian_header" src="/img/gaussian_header.png" alt="graph">{:height="200%" width="200%"}
 
 ## Introduction
 
