@@ -29,13 +29,11 @@ One of its interpretation is the Gaussian algorithm – a naïve model based on 
 
 ## Bayes’ Theorem
 
-$$ P(A\midB) = \frac{P(B\midA) \, P(A)}{P(B)} $$
-//
-$$P(A\midB) = \frac{P(B\midA) \, P(A)}{P(B)}$$
+$$P(A\mid B) = \frac{P(B\mid A) \, P(A)}{P(B)}$$
 
 ## Gaussian Naïve Bayes’ algorithm
 
-$\frac{1}{\sigma\sqrt{2\pi}}e^{\frac{1}{2}\left(\frac{\chi-\mu}{\sigma}\right)^{2}}$
+$$\frac{1}{\sigma\sqrt{2\pi}}e^{\frac{1}{2}\left(\frac{\chi-\mu}{\sigma}\right)^{2}}$$
 
 ## Manual implementation
 
