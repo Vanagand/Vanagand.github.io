@@ -1,7 +1,7 @@
 ---
 ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"
 layout: post
-title: The Layman’s Gaussian Naïve Bayes Classifier
+title: From machine learning to your wallets - Experience working with budget forecasts.
 subtitle: What are the odds?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
