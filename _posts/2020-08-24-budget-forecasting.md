@@ -12,7 +12,7 @@ comments: true
 ![header](/assets/img/gaussian_header.png)
 ## The Overview
 
-<img id="saverlife01" src="/img/saverlife01.png" alt="graph">{:height="200%" width="200%"}
+<img id="saverlife01" src="/assets/img/saverlife01.png" alt="graph">{:height="200%" width="200%"}
 
 For the last stretch as a student in the ranks of academia, our team was tasked to work with a third-party organization dedicated to the discovery of new and better ways to build financial wellness for users with high income volatility. The development included a team of multi-disciplinary engineers ranging from both web and mobile developers, as well as data scientists. As we approached the starting line, some concerns were already making themselves clear- communication between the involved parties would have to be responsive, and having access to proper data.
 
@@ -26,13 +26,13 @@ As we made way nearing the end of the development cycle, some of our concerns so
 
 ## The Product
 
-<img id="saverlife01" src="/img/saverlife02.png" alt="graph">{:height="200%" width="200%"}
+<img id="saverlife01" src="/assets/img/saverlife02.png" alt="graph">{:height="200%" width="200%"}
 
 Our team still decided to hit the ground running, the first few weeks of the development cycle included pre-production in the form of wireframe prototyping, and making sure we had an idea of the architecture, and tools we would require. This allowed us to not only align on what we would need, but we also had an idea about the workload involved. Some of these decisions were also taken from an interest to learn new packages, to expand our ability to adopt new tools and adapt.
 
 ## The Code
 
-<img id="saverlife01" src="/img/saverlife03.png" alt="graph">{:height="200%" width="200%"}
+<img id="saverlife01" src="/assets/img/saverlife03.png" alt="graph">{:height="200%" width="200%"}
 
 For the track of data science we decided to deploy our work using Amazon Web Services. This was not only efficient but intuitive! This handled most of the operational work required. 
 
